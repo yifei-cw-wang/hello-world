@@ -1,0 +1,27 @@
+Naive Bayes Classifiers
+
+Naive Bayes is a machine learning method you can use to predict the likelihhod that an event will occur given evidence that's present in your data
+
+Types:
+* Multnomial: when features are continuous
+* Bernoulli: binary features
+* Gaussian: normally ditributed features
+
+Assumptions:
+* predictors are independent
+* a priori assumption: this is an assumption that the past conditions still hold true.When we make predctions from historical values, we will get incorrect results if present circumstances have changed
+
+########################################################################################################
+
+Ensemble Learning
+
+* Using multiple learning algriothms together for the same task to better predict
+* Feature and Lables -> decision tree, supportive vertor machine , logistic regression algorithm -> combine three models
+* e.g. decision tree -> predict yes
+support vertor machine -> predict yes  VOTING--> yes
+logistic regression -> predict no 
+
+
+
+
+
